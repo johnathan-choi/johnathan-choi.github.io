@@ -8,8 +8,42 @@ Includes CSS that I didn't want to add in materialize.css
     width: 100%;
     background-color: #1E88E5;
     border: 0px;
-    padding: 10px;
+    padding: 10px 10px 0px 10px;
     margin: 0px;
     font-size: 3em;
+}
+
+.logo a{
     color: white;
+}
+
+.navbar{
+    width: 100%;
+    background-color: #1E88E5;
+    overflow: hidden;
+    font-size: 0.9em;
+}
+
+.navbar ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+.navbar li{
+    display: inline;
+    padding: 10px 3px 10px 3px;
+}
+
+.navbar li:hover{
+    background-color: #42a5f5;
+}
+
+.navbar a{
+    color: white;
+    display: inline-block;
+    padding: 5px 0px 5px 0px;
+    margin: 0px;
+    border: 0px;
 }
