@@ -4,6 +4,7 @@ otherStuff.css
 Includes CSS that I didn't want to add in materialize.css 
 */
 
+/* Logo */
 .logo{
     width: 100%;
     background-color: #1E88E5;
@@ -12,38 +13,44 @@ Includes CSS that I didn't want to add in materialize.css
     margin: 0px;
     font-size: 3em;
 }
-
 .logo a{
     color: white;
 }
 
+/* Navigation bar */
 .navbar{
     width: 100%;
     background-color: #1E88E5;
     overflow: hidden;
     font-size: 0.9em;
 }
-
 .navbar ul{
     list-style-type: none;
     padding: 0px;
     margin: 0px;
     text-align: center;
 }
-
 .navbar li{
     display: inline;
-    padding: 10px 3px 10px 3px;
+    padding: 10px 3px;
 }
-
 .navbar li:hover{
     background-color: #42a5f5;
 }
-
 .navbar a{
     color: white;
     display: inline-block;
-    padding: 5px 0px 5px 0px;
+    padding: 5px 0px;
     margin: 0px;
     border: 0px;
+}
+
+/* Body */
+body{
+    background-color: #010812;
+    color: white;
+    border-style: solid;
+    border-width: 10px 5px;
+    border-color: transparent;
+    padding: 0% 15%;
 }
