@@ -1,2 +1,3 @@
 Johnathan Choi
-Webiste under construction. Come back later.
+
+Website under construction. Come back later.
