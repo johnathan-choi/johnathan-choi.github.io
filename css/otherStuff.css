@@ -1,0 +1,15 @@
+/*! 
+Johnathan Choi 2017
+otherStuff.css
+Includes CSS that I didn't want to add in materialize.css 
+*/
+
+.logo{
+    width: 100%;
+    background-color: #1E88E5;
+    border: 0px;
+    padding: 10px;
+    margin: 0px;
+    font-size: 3em;
+    color: white;
+}
