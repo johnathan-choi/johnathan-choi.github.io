@@ -1,2 +1,2 @@
-# johnathan-choi.github.io
-My personal webpage
+Johnathan Choi
+Webiste under construction. Come back later.
