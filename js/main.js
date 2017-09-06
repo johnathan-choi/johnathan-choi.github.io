@@ -4,6 +4,8 @@ main.js
 JS file that supports index.html. Gradual phase-in from materialize.js
 */
 
+// Sourced from W3Schools Javascript Tabs
+// https://www.w3schools.com/howto/howto_js_tabs.asp
 function openTab(evt, tabName) {
     // Declare all variables
     var i, tabcontent, tablinks;

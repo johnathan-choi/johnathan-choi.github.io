@@ -74,3 +74,12 @@ div.tab button.active {
     padding: 0px 5px;
 }
 
+/* Footer */
+.footer{
+    position: absolute;
+    bottom: 1em;
+    right: 0;
+    left: 0;
+    text-align: center;
+
+}
